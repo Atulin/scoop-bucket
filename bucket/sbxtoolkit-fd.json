@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "description": "Docker Sandboxex supercharger (framework-dependent)",
+  "homepage": "https://github.com/Atulin/SbxToolkit",
+  "license": "MIT",
+  "url": "https://github.com/Atulin/SbxToolkit/releases/download/v1.0.0/sbxtoolkit-win-x64-fd.zip",
+  "hash": "804ce060f80b274ec91448c640284ef49c06c521cdcf7b8afd1cbee3f1413a55",
+  "bin": [
+    "SbxToolkit.exe",
+    "sbxt"
+  ],
+  "checkver": {
+    "github": "https://github.com/Atulin/SbxToolkit"
+  },
+  "autoupdate": {
+    "url": "https://github.com/Atulin/SbxToolkit/releases/download/v$version/sbxtoolkit-win-x64-fd.zip"
+  }
+}
