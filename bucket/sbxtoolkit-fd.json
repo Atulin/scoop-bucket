@@ -1,1 +1,25 @@
-{"name":"sbxtoolkit-fd","version":"1.0.0\u002B3","description":"Docker Sandboxes toolkit (Framework-dependent)","homepage":"https://github.com/Atulin/SbxToolkit","license":"MIT","url":"https://github.com/Atulin/SbxToolkit/releases/download/v1.0.0\u002B3\\sbxtoolkit-win-x64-fd.zip","hash":"6e81c4a5abfd03efeeb4f6e7a288acb91704dbbdae4a66078959891cb8ad1c65","bin":[{"exe":"SbxToolkit.exe","name":"sbxtoolkit"},{"exe":"SbxToolkit.exe","name":"sbxt"}],"checkver":{"github":"https://github.com/Atulin/SbxToolkit"},"autoupdate":{"url":"https://github.com/Atulin/SbxToolkit/releases/download/v1.0.0\u002B3\\sbxtoolkit-win-x64-fd.zip"}}
+{
+    "name": "sbxtoolkit-fd",
+    "version": "1.0.0\u002B4",
+    "description": "Docker Sandboxes toolkit (Framework-dependent)",
+    "homepage": "https://github.com/Atulin/SbxToolkit",
+    "license": "MIT",
+    "url": "https://github.com/Atulin/SbxToolkit/releases/download/v1.0.0\u002B4\\sbxtoolkit-win-x64-fd.zip",
+    "hash": "0f41893137d7436805cd665d9e0b44f36a7a31d7a7cbff467ef8f655f7e1a7e0",
+    "bin": [
+        [
+            "SbxToolkit.exe",
+            "sbxtoolkit"
+        ],
+        [
+            "SbxToolkit.exe",
+            "sbxt"
+        ]
+    ],
+    "checkver": {
+        "github": "https://github.com/Atulin/SbxToolkit"
+    },
+    "autoupdate": {
+        "url": "https://github.com/Atulin/SbxToolkit/releases/download/v1.0.0\u002B4\\sbxtoolkit-win-x64-fd.zip"
+    }
+}
