@@ -4,10 +4,16 @@
   "homepage": "https://github.com/Atulin/SbxToolkit",
   "license": "MIT",
   "url": "https://github.com/Atulin/SbxToolkit/releases/download/v1.0.0/sbxtoolkit-win-x64-aot.zip",
-  "hash": "06b2380d6b5083fc01fd35365cb7a5be29ab92aab0c833abd00860747e20ecc8",
+  "hash": "25604c14cd75d264314d7929c02c581281ae327956d61d79ba42d1dcbb6f88ef",
   "bin": [
-    "SbxToolkit.exe",
-    "sbxt"
+    {
+      "exe": "SbxToolkit.exe",
+      "name": "sbxtoolkit"
+    },
+    {
+      "exe": "SbxToolkit.exe",
+      "name": "sbxt"
+    }
   ],
   "checkver": {
     "github": "https://github.com/Atulin/SbxToolkit"
